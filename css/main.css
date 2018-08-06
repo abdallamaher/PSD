@@ -229,8 +229,7 @@ p {
 .work .active {
   border: 2px solid #c8342d;
   color: #c8342d;
-  border-radius: 3px;
-  padding: 5px 0;
+  border-radius: 3px
 }
 
 .work .bic1 {
